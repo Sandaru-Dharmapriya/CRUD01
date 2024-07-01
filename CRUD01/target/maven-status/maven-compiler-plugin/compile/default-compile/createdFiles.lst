@@ -1,0 +1,3 @@
+DAO\PersonDAO.class
+model\Person.class
+Resource\PersonResource.class
